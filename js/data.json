@@ -18,7 +18,7 @@ var lp = {
 		{"id":"cpal-v1","name":"Common Public Attribution License v1","address":"http://opensource.org/licenses/cpal_1.0"},
 		{"id":"zpl-v2","name":"The Zope Public License v2","address":"http://opensource.org/licenses/zpl-2.0"},
 		{"id":"apache-v2","name":"Apache License v2","address":"https://www.apache.org/licenses/LICENSE-2.0.html"},
-		{"id":"epl-v1","name":"Eclipse Public License v1","address":"http://eclipse.org/org/documents/epl-v10.php"}
+		{"id":"epl-v1","name":"Eclipse Public License v1","address":"http://eclipse.org/org/documents/epl-v10.php"},
 		{"id":"afl-v2","name":"Academic Free License 2.1"}
 	],
 	"alternatives":[
