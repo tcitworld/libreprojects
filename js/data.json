@@ -99,7 +99,7 @@ var lp = {
 		{"id":"libravatar","category":"publishing","name":"Libravatar","description":"web avatar service","address":"http://www.libravatar.org/","licenses":["gnu-agpl-v3"],"tags":["avatar","decentralized"],"alternative":["gravatar"]},
 		{"id":"tiddlyspace","category":"publishing","name":"TiddlySpace","description":"wiki","address":"http://tiddlyspace.com","licenses":["bsd"],"introduction": "Pure Javascript portable wiki based on TiddlyWiki","alternative":["wikia"],"source":"https://github.com/TiddlySpace/tiddlyspace"},
 		{"id":"wikispecies","category":"science","name":"Wikispecies","description":"directory","address":"http://species.wikimedia.org/wiki/Main_Page", "introduction": "The free species directory that anyone can edit."},
-		{"id":"plos","category":"science","name":"PLoS","description":"library","address":"http://plos.org/"},
+		{"id":"plos","category":"science","name":"Public Library of Science","description":"academic journal","address":"http://plos.org/"},
 		{"id":"sage","category":"science","name":"Sage","description":"mathematics","address":"http://sagemath.org/","licenses":"gnu-gpl-v2","source":"http://hg.sagemath.org/"},
 		{"id":"graph","category":"science","name":"Graph","description":"functions","address":"http://graph.tk/","licenses":"gnu-lgpl-v3","source":"https://github.com/aantthony/graph.tk"},
 		{"id":"fractallab","category":"science","name":"Fractal Lab","description":"explorer","address":"http://fractal.io/","licenses":"gnu-gpl-v3","source":"https://github.com/zz85/FractalLab"},
