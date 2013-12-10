@@ -9,7 +9,7 @@ var lp = {
 		{"id":"cc-by-sa-v3","name":"Creative Commons Attribution-ShareAlike 3.0 Unported","address":"https://creativecommons.org/licenses/by-sa/3.0/"},
 		{"id":"cc-by-nd-v3","name":"Creative Commons Attribution-NoDerivs 3.0 Unported","address":"https://creativecommons.org/licenses/by-nd/3.0/"},
 		{"id":"cc-zero-v1","name":"Creative Commons Public Domain Dedication","address":"https://creativecommons.org/publicdomain/zero/1.0/"},
-        {"id":"cpal-v1","name":"Common Public Attribution License Version 1.0","address":"http://opensource.org/licenses/CPAL-1.0"},
+		{"id":"cpal-v1","name":"Common Public Attribution License Version 1.0","address":"http://opensource.org/licenses/CPAL-1.0"},
 		{"id":"mit","name":"MIT license","address":"http://www.opensource.org/licenses/MIT"},
 		{"id":"bsd","name":"BSD Simplified license","address":"http://www.opensource.org/licenses/BSD-2-clause"},
 		{"id":"gnu-agpl-v3","name":"GNU Affero General Public License v3","address":"https://www.gnu.org/licenses/agpl-3.0.html"},
@@ -19,7 +19,7 @@ var lp = {
 		{"id":"cpal-v1","name":"Common Public Attribution License v1","address":"http://opensource.org/licenses/cpal_1.0"},
 		{"id":"zpl-v2","name":"The Zope Public License v2","address":"http://opensource.org/licenses/zpl-2.0"},
 		{"id":"apache-v2","name":"Apache License v2","address":"https://www.apache.org/licenses/LICENSE-2.0.html"},
-        {"id":"artistic-v2","name":"Artistic License 2.0","address":"http://www.opensource.org/licenses/Artistic-2.0"},
+		{"id":"artistic-v2","name":"Artistic License 2.0","address":"http://www.opensource.org/licenses/Artistic-2.0"},
 		{"id":"epl-v1","name":"Eclipse Public License v1","address":"http://eclipse.org/org/documents/epl-v10.php"},
 		{"id":"afl-v2","name":"Academic Free License 2.1"}
 	],
