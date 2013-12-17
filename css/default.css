@@ -120,6 +120,12 @@ h3+p, h3+p+p, h3+p+p+p { color:#777; }
 
 /* Viewer width ≥ 600px */
 @media screen and (min-width: 600px) {
+ 	/* search styling */
+	#search { right:20em;  }
+}
+
+/* Viewer width ≥ 800px */
+@media screen and (min-width: 800px) {
 	body {margin:5em auto;}
 
 	/* header */
