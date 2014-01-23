@@ -176,6 +176,9 @@
   "Una piattaforma di traduzione per le comunità di traduzione, le comunità linguistiche ed i progetti liberi ed open source.",
 
   "Free worldwide travel guide that anyone can edit.":
-  "La guida turistica gratuita e mondiale che chiunque può modificare."
+  "La guida turistica gratuita e mondiale che chiunque può modificare.",
+
+  "img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.":
+  "img.bi &egrave; un servizio sicuro per condividere foto. Le immagini vengono cifrate prima dell'upload usando AES-256 con una chiave casuale."
 
 }
