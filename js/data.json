@@ -89,6 +89,7 @@ var lp = {
 		{"id":"openclipartlibrary","category":"graphics","name":"Open Clip Art","description":"artwork","address":"http://openclipart.org/"},
 		{"id":"opengameart","category":"graphics","name":"OpenGameArt","description":"sprites","address":"http://opengameart.org/"},
 		{"id":"wikimediacommons","category":"graphics","name":"Wikimedia","description":"commons","address":"http://commons.wikimedia.org/", "introduction": "A database of freely usable media files to which anyone can contribute."},
+		{"id":"imgbi","category":"graphics","name":"img.bi","description":"photos","address":"https://img.bi/","licenses":["gnu-gpl-v3"],"source":"https://github.com/imgbi", "introduction": "img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload."},
 		{"id":"morguefile","category":"graphics","name":"morgueFile","description":"photos","address":"http://morguefile.com/"},
 		{"id":"nounproject","category":"graphics","name":"Noun Project","description":"symbols","address":"http://thenounproject.com/"},
 		{"id":"tango","category":"graphics","name":"Tango","description":"icons","address":"http://commons.wikimedia.org/wiki/GNOME_Desktop_icons#Actions"},
