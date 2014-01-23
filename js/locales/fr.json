@@ -144,6 +144,9 @@
   "Une plateforme de localisation pour les communautés de traduction, les communautés linguistiques, et les projets libres et open source.",
 
   "Free worldwide travel guide that anyone can edit.":
-  "Le guide de voyage libre du monde entier que chacun peut améliorer."
+  "Le guide de voyage libre du monde entier que chacun peut améliorer.",
+
+  "img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.":
+  "img.bi est un h&eacute;bergement s&eacute;curis&eacute; pour les images. Les images sont crypt&eacute;es en utilisant AES-256 &agrave; cl&eacute; al&eacute;atoire, dans le navigateur, avant de les charger."
 
 }
