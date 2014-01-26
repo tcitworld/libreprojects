@@ -21,7 +21,7 @@ a img { border:0; }
 
 
 /* search styling */
-#search { z-index:200; position:absolute; margin:0; top:5em; right:6.5em; background:none; border:none; }
+#search { z-index:200; position:absolute; margin:0; font-size:12px; top:82px; left:13%; background:none; border:none; }
 #search label { position:absolute; top:.6em; left:.5em; font-size:2em; }
 #searching { background:none; border:none; color:#fff; font-size:2em; padding:.3em .5em; width:7em; outline:0; }
 #searchError { display: none; color: #ccc; margin-left: 1em; position:absolute; width:14em; top:7.5em; right:4em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -31,7 +31,7 @@ h1 { font-size:1.8em; display:block; white-space:nowrap; }
 h1 img { width:.85em; height:.85em; margin:-.15em .3em 0 -1.3em; vertical-align:middle; }
 h1 a { color:#fff; text-decoration:none; padding:0 .5em; }
 h1 a:hover, h1 a:focus { color:#fff; text-shadow:#000 0 0 1em; outline:0; }
-h1+p { font-size:.9em; color:#fff; margin:-1em 0 0em 1em; z-index:-100; }
+h1+p { font-size:.9em; color:#fff; margin:-1em 0 0em 1em; z-index:-100; white-space:nowrap; }
 p+h2 { margin:-1em 0 0 9.5em; z-index:100; }
 p+h2+p { position:absolute; font-size:3em; margin:-1em 0 0 12.5em; z-index:100; }
 p+h2 a { padding:1em; }
@@ -118,11 +118,6 @@ h3+p, h3+p+p, h3+p+p+p { color:#777; }
 
 #project-details acronym {padding-bottom: 2px; border-bottom: dashed 1px #555; cursor: help;}
 
-/* Viewer width ≥ 600px */
-@media screen and (min-width: 600px) {
- 	/* search styling */
-	#search { right:20em;  }
-}
 
 /* Viewer width ≥ 800px */
 @media screen and (min-width: 800px) {
@@ -133,7 +128,7 @@ h3+p, h3+p+p, h3+p+p+p { color:#777; }
  	h1+p { font-size:.9em; color:#fff; margin:-3em 0 2em 1.6em; z-index:-100; }
 
  	/* search styling */
-	#search { z-index:200; position:absolute; margin:0; top:4em; right:3em; background:none; border:none; }
+	#search { z-index:200; position:absolute; margin:0; font-size:initial; top:4em; left:initial; right:3em; background:none; border:none; }
 
 	#categories { margin-top: 0;}
 }
