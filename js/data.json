@@ -2,7 +2,7 @@ var lp = {
 	"locales":[{"id":"en","name":"english"},{"id":"de","name":"german"},{"id":"fr","name":"french"},{"id":"it","name":"italian"},{"id":"ru","name":"russian"},{"id":"eo","name":"esperanto"}],
 	"categories":[{"id":"social","position":"1"},{"id":"tools","position":"2"},{"id":"news","position":"3"},{"id":"travel","position":"4"},{"id":"knowledge","position":"5"},{"id":"text","position":"6"},{"id":"audio","position":"7"},{"id":"video","position":"8"},{"id":"graphics","position":"9"},{"id":"publishing","position":"10"},{"id":"games","position":"11"},{"id":"emulators","position":"12"},{"id":"development","position":"13"},{"id":"science","position":"14"},{"id":"organization","position":"15"}],
 	"licenses":[
-		{"id":"afl-v2","name":"Academic Free License 2.1"}
+		{"id":"afl-v2","name":"Academic Free License 2.1"},
 		{"id":"apache-v2","name":"Apache License v2","address":"https://www.apache.org/licenses/LICENSE-2.0.html"},
 		{"id":"artistic-v2","name":"Artistic License 2.0","address":"http://www.opensource.org/licenses/Artistic-2.0"},
 		{"id":"bsd","name":"BSD Simplified license","address":"http://www.opensource.org/licenses/BSD-2-clause"},
