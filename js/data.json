@@ -89,7 +89,6 @@ var lp = {
 		{"id":"communityvideo","category":"video","name":"Community Video","description":"database","address":"http://archive.org/details/opensource_movies"},
 		{"id":"universalsubtitles","category":"video","name":"Universal","description":"subtitles","address":"http://universalsubtitles.org/"},
 
-		{"id":"openphoto","category":"graphics","name":"OpenPhoto","description":"photo hosting","address":"http://openphoto.me","licenses":["apache-v2"],"source":"https://github.com/photo"},
 		{"id":"mediagoblin","category":"graphics","name":"MediaGoblin","description":"media community","address":"http://gobblin.se/","licenses":["gnu-agpl-v3"],"source":"http://gitorious.org/mediagoblin/mediagoblin"},
 		{"id":"svg-edit","category":"graphics","name":"SVG-edit","description":"graphic editor","address":"http://svg-edit.googlecode.com/svn/trunk/editor/svg-editor.html","licenses":["mit"]},
 		{"id":"harmony","category":"graphics","name":"Harmony","description":"drawing tool","address":"http://mrdoob.com/projects/harmony/"},
