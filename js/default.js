@@ -380,7 +380,7 @@ lp = $.extend(lp, {
 		var alternative = tosdr.tosdr.rated == false ? 'Not rated yet, help ToS:DR to provide one!' : 'Rated ' + tosdr.tosdr.rated + ' - rate being from A to E';
 
 		var $tosdr = $details.find('.tosdr ul').html('');
-		$('<li />').html('<a href="http://tos-dr.info/#' + lp.actualProject.id + '">' + text + '</a>')
+		$('<li />').html('<a href="https://tosdr.org/#' + lp.actualProject.id + '">' + text + '</a>')
 		           .addClass('tosdr')
 		           .appendTo($tosdr)
 		           .find('a')
@@ -399,7 +399,7 @@ lp = $.extend(lp, {
 					// Retrieving TOS:DR information if not done already
 					if (! lp.actualProject.tosdr) {
 						lp.actualProject.tosdr = {tosdr:{rated: false}};
-						$.getJSON('http://tos-dr.info/services/' + lp.actualProject.id + '.json')
+						$.getJSON('https://tosdr.org/services/' + lp.actualProject.id + '.json')
 							.done(function(data) {
 								if (data) {
 									lp.actualProject.tosdr = data;
