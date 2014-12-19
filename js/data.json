@@ -130,7 +130,6 @@ var lp = {
 		{"id":"backchannl","category":"organization","name":"backchan.nl","description":"audience","address":"http://backchan.nl/","licenses":["bsd"],"source":"https://github.com/drewww/backchan.nl"},
 		{"id":"beex","category":"organization","name":"BEEx","description":"funding","address":"http://beex.org/","source":"https://github.com/beexsvn/Beex.org"},
 
-		{"id":"youtify","category":"audio","name":"Youtify","description":"music player","address":"http://youtify.com/","licenses":["mit"],"source":"https://github.com/youtify/youtify"},
 		{"id":"jamendo","category":"audio","name":"Jamendo","description":"music store","address":"http://jamendo.com/"},
 		{"id":"freemusicarchive","category":"audio","name":"Free Music","description":"archive","address":"http://freemusicarchive.org/"},
 		{"id":"librefm","category":"audio","name":"Libre.fm","description":"radio","address":"http://libre.fm/"},
