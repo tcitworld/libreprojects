@@ -87,6 +87,7 @@ var lp = {
 		{"id":"openlibrary","category":"text","name":"OpenLibrary","description":"catalog","address":"http://openlibrary.org/"},
 		{"id":"flossmanuals","category":"text","name":"FLOSS Manuals","description":"manuals","address":"http://flossmanuals.net/"},
 		{"id":"booki","category":"text","name":"Booki","description":"platform","address":"http://www.booki.cc/"},
+		{"id":"inventaire","category":"text","name":"Inventaire","description":"books","address":"https://inventaire.io","licenses":["gnu-agpl-v3"],"tags":["collaborative library", "books", "wikidata", "collections", "sharing"], "introduction":"a libre collaborative resources mapper powered by open-knowledge","source":"https://github.com/maxlath/inventaire"},
 
 		{"id":"vodo","category":"video","name":"Vodo","description":"platform","address":"http://vodo.net/"},
 		{"id":"filmaster","category":"video","name":"Filmaster","description":"community","address":"http://filmaster.com/"},
