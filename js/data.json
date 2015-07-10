@@ -156,7 +156,7 @@ var lp = {
 
 		{"id":"launchpad","category":"development","name":"Launchpad","description":"platform","address":"http://launchpad.net/","licenses":["gnu-agpl-v3"],"source":"https://dev.launchpad.net/"},
 		{"id":"codingteam","category":"development","name":"CodingTeam","description":"platform","address":"http://codingteam.net/","licenses":["gnu-agpl-v3"],"source":"http://codingteam.net/project/codingteam"},
-		{"id":"gitorious","category":"development","name":"Gitorious","description":"repositories","address":"http://gitorious.org/","licenses":["gnu-agpl-v3"],"source":"http://gitorious.org/gitorious"},
+		{"id":"gitlab","category":"development","name":"GitLab","description":"repositories","address":"https://about.gitlab.com/","licenses":["mit"],"source":"https://gitlab.com/gitlab-org/gitlab-ce","introduction":"Create, review and deploy code together"},
 		{"id":"tuxfamily","category":"development","name":"TuxFamily","description":"hosting","address":"http://tuxfamily.org/"},
 		{"id":"ourproject","category":"development","name":"OurProject","description":"hosting","address":"http://ourproject.org/"},
 		{"id":"net2ftp","category":"development","name":"net2ftp","description":"FTP client","address":"http://net2ftp.com/","licenses":["gnu-gpl-v2"],"source":"http://www.net2ftp.com/homepage/download.html"},
