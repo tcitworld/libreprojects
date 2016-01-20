@@ -131,7 +131,6 @@ var lp = {
 		{"id":"beex","category":"organization","name":"BEEx","description":"funding","address":"http://beex.org/","source":"https://github.com/beexsvn/Beex.org"},
 		{"id":"taiga","category":"organization","name":"Taiga","description":"projects","address":"http://taiga.io/","licenses":["gnu-agpl-v3"],"introduction": "Taiga is a project management platform for agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.","source":"https://taiga.io/"},
 
-		{"id":"youtify","category":"audio","name":"Youtify","description":"music player","address":"http://youtify.com/","licenses":["mit"],"source":"https://github.com/youtify/youtify"},
 		{"id":"jamendo","category":"audio","name":"Jamendo","description":"music store","address":"http://jamendo.com/"},
 		{"id":"freemusicarchive","category":"audio","name":"Free Music","description":"archive","address":"http://freemusicarchive.org/"},
 		{"id":"librefm","category":"audio","name":"Libre.fm","description":"radio","address":"http://libre.fm/"},
